@@ -29,7 +29,7 @@ Fazendo uma breve análise na documentação da API disponível nesse link: [API
 
 Então desenvolvi um planejamento seguindo essa estrutura da *documentação da API* para ser desenvolvida com alguma ferramenta:
 
-![Image Planejamento The Bible API](imgs/img_planing.png)
+![Image Planejamento The Bible API](imgs/img_planing.PNG)
 
 Esse é o planejamento e o fluxo de execução do script, para mais detalhes considere acessar o script: []().
 
