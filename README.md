@@ -21,6 +21,8 @@ A extração foi agendada diariamente para coletar os dados da API ao longo dos 
 
 O projeto foi desenvolvido utilizando o próprio Powershell como ferramenta de requisição a diversos endpoints desta API.
 
+Projeto faz parte do meu curso de Powershell na Udemy: https://www.udemy.com/course/da-logica-de-programacao-ao-powershell/ 
+
 
 ### 2. Estratégia de Solução
 ---
